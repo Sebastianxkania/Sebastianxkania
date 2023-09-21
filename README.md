@@ -6,6 +6,6 @@ I am an extremely hard-working Software Developer who is passionate about my fie
 
 ### 🧰 Languages and Tools
 
-**`React  Node.js Angular`**
+**`React.js  Node.js  Angular JavaScript  TypeScript  HTML 5  CSS  React Native  Python  C  Ruby  Java  Swift UIKit  SwiftUI  SQL  SQL Light  AWS  Firebase  Monorepo  GitHub`**
 
 
