@@ -34,6 +34,10 @@ I am a hard-working Full Stack Developer who is passionate about my field. I am 
 - **Figma, Moqups**
 - **Jira, Confluence, Github, Gitlab**
 
+### AI
+- **Cursor**
+- **LLMS**
+
 ### Other Languages
 - **C, C++**
 - **Swift, Kotlin**
